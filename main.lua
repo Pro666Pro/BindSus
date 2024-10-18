@@ -13,7 +13,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Credit",Text 
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Credit",Text = "Getting Chain" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150",Button1 = "alright dud"})
 wait(1)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/ChainSus/main/main.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/sus/main/main.lua'))()
 ]])
 end
 game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Credit",Text = "By Nexer1234" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150",Button1 = "alright dud"})
